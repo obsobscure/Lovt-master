@@ -1,0 +1,350 @@
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap');
+
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: 'Ropa Sans';
+  font-weight: normal;
+}
+
+header {
+  background: #FFFFFF;
+  box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.25);
+}
+
+h1{
+  margin-top: 0.7%;
+  margin-bottom: 0.7%;
+}
+
+.logo {
+  margin-left: 4%;
+  font-family: 'Ropa Sans';
+  color: #777777;
+  display: flex;
+  text-align: center;
+}
+
+.posLogo {
+  font-size: 1.2rem;
+  margin-top: 0.7%;
+  margin-left: 0.4%;
+}
+
+.loft {
+  margin-top: 0;
+}
+
+h2 {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 66%;
+  margin-top: 9%;
+  color: #AAAAAA;
+}
+
+.image0 {
+  margin-left: 86%;
+  cursor: pointer;
+}
+
+.image1 {
+  margin-left: 4%;
+  margin-top: 2%;
+  margin-bottom: 4%;
+  width: 91%;
+  position: relative;
+}
+
+.EllipseLeft {
+  position: absolute;
+  color: white;
+  text-align: center;
+  width: 6.2%;
+  margin-top: -26.8%;
+  margin-left: 5.9%;
+  cursor: pointer;
+}
+
+.EllipseRight {
+  position: absolute;
+  color: white;
+  text-align: center;
+  width: 6.2%;
+  margin-top: -26.8%;
+  margin-left: 87%;
+  cursor: pointer;
+}
+
+.LeftArrow img {
+  position: absolute;
+  color: white;
+  text-align: center;
+  width: 1.7%;
+  margin-top: -25.5%;
+  margin-left: 7.7%;
+  cursor: pointer;
+
+}
+
+.RightArrow img {
+  position: absolute;
+  color: white;
+  text-align: center;
+  width: 1.7%;
+  margin-top: -25.5%;
+  margin-left: 89%;
+  cursor: pointer;
+}
+
+.caixas {
+  display: flex;
+  justify-content: space-between;
+}
+
+.caixa1 {
+  overflow-wrap: break-word;
+  background-color: #EEEEEE;
+  margin-left: 4%;
+  width: 39%;
+  text-align: center;
+
+}
+
+.image2 {
+  width: 100%;
+}
+
+.textos1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.texto1 {
+  color: #888888;
+  font-size: 300%;
+  margin-left: 6%;
+}
+
+.texto2 {
+  margin-top: 2%;
+  background-color: #51D275;
+  color: white;
+  text-align: center;
+  width: 20%;
+  height: 20%;
+  font-size: 220% ;
+  margin-right: 6%;
+  border-radius: 20.5vh;
+}
+
+.texto3 {
+  color: #555555;
+  text-align: justify;
+  margin-left: 6.1%;
+  margin-right: 6.1%;
+  margin-bottom: 4%;
+  margin-top: 2.5%;
+}
+
+.caixa2 {
+  overflow-wrap: break-word;
+  background-color: #EEEEEE;
+  margin-right: 5%;
+  width: 39%;
+  text-align: center;
+}
+
+.image3 {
+  width: 100%;
+}
+
+.textos2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.texto4 {
+  color: #888888;
+  font-size: 300%;
+  margin-left: 6%;
+
+}
+
+.texto5 {
+  margin-top: 2%;
+  background-color: #DC9730;;
+  color: white;
+  text-align: center;
+  width: 20%;
+  height: 20%;
+  font-size: 220% ;
+  margin-right: 6%;
+  border-radius: 20.5vh;
+}
+
+.texto6 {
+  color: #555555;
+  text-align: justify;
+  margin-left: 7.5%;
+  margin-right: 7.5%;
+  margin-bottom: 4%;
+  margin-top: 2.5%;
+}
+
+.texto7 {
+  margin-top: 9%;
+  color: #888888;
+  text-align: center;
+  font-size: 280%;
+  margin-bottom: 2%;
+}
+
+.style1 {
+  display: inline-block;
+  position: relative;
+  position: absolute;
+}
+
+.container1 {
+  margin: auto;
+  width: 91%;
+  position: relative;
+  color: white;
+  text-align: center;
+  margin-bottom: 1%;
+}
+
+.container1 img{
+  width: 100%;
+}
+
+.texto8 {
+  font-size: 300%;
+  margin-right: 10%;
+  position: absolute;
+  top: 34%;
+  left: 42.4%;
+}
+
+.industrialImage {
+  filter: opacity(60%);
+}
+
+.modernImage {
+  filter: opacity(60%);
+}
+
+.classicImage {
+  filter: opacity(60%);
+}
+
+.container2 {
+  margin: auto;
+  width: 91%;
+  position: relative;
+  color: white;
+  text-align: center;
+  margin-bottom: 1%;
+}
+
+.container2 img{
+  width: 100%;
+}
+
+.texto9 {
+  font-size: 300%;
+  margin-right: 10%;
+  position: absolute;
+  top: 33%;
+  left: 44%;
+}
+
+.container3 {
+  margin: auto;
+  width: 91%;
+  position: relative;
+  color: white;
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.container3 img{
+  width: 100%;
+}
+
+.texto10 {
+  font-size: 300%;
+  margin-right: 10%;
+  position: absolute;
+  top: 33.5%;
+  left: 44.7%;
+}
+
+.caixa3 {
+  background-color: #333333;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image4 {
+  margin-top: 11.5%;
+  margin-left: 11.5%;
+  margin-bottom: 11.5%;
+  width: 41vw;
+}
+
+.textosFooter {
+  margin-right: 15%;
+  margin-top: 8%;
+  color: white;
+}
+
+.textoFooter1 {
+  font-size: 120%;
+}
+
+.textoFooter2 {
+  font-size: 120%;
+  margin-top: 7%;
+}
+
+.textoFooter3 {
+  font-size: 120%;
+  margin-top: 7%;
+}
+
+.textoFooter4 {
+  font-size: 120%;
+  margin-top: 7%;
+}
+
+.socialMedias {
+  font-size: 120%;
+  margin-top: 12%;
+}
+
+.socialMedias img {
+  width: 6vh;
+}
+
+.socialIcons {
+  display: flex;
+}
+
+.InstagramIcon {
+  margin-top: 4%;
+  margin-right: 9.5%;
+}
+
+.FacebookIcon {
+  margin-top: 4%;
+  margin-right: 9.5%;
+}
+
+.WhatsappIcon {
+  margin-top: 4%;
+}
+
+
